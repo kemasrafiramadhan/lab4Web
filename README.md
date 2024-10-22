@@ -4,7 +4,7 @@
 |KemasRafiRamadhan|312310346|TI 23A.4|Pemog Web|
 
 ## 1. membuat Folder baru dengan nama Lab4_box html kemudian tambahkan Box elemen dan mengatur css float properti
-![Screenshot (48)]
+![img 1](screenchot/Screenshot48.png)!
 ![Screenshot (49)]
 ![Screenshot (50)](https://github.com/user-attachments/assets/dd379d73-dc64-4d00-9c15-f28e88c66bac)
 ![Screenshot (51)](https://github.com/user-attachments/assets/b62a0c7d-7018-4232-bbd9-bcb00107e665)
